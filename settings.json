@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.crimsonmc.qzz.io",
+    "ip": "CrimsonMC_S1.aternos.me",
     "port": 14466,
     "version": "1.21.11",
     "try-creative": false
